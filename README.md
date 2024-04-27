@@ -11,7 +11,7 @@ How to Run
 String Compression
 1. Make sure you have Python installed on your system.
 2. Clone this repository to your local machine.
-3. Navigate to the directory containing the `compression.py` file.
+3. Navigate to the directory containing the `stringcompression.py` file.
 4. Open a terminal or command prompt in that directory.
 5. Run the following command:
 
@@ -25,7 +25,7 @@ String Compression
 Largest Number Concatenation
 1. Make sure you have Python installed on your system.
 2. Clone this repository to your local machine.
-3. Navigate to the directory containing the `concatenation.py` file.
+3. Navigate to the directory containing the `largestpossiblenumber.py` file.
 4. Open a terminal or command prompt in that directory.
 5. Run the following command:
 
